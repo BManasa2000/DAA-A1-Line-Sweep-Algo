@@ -11,8 +11,8 @@ The main.cpp contains the driver code.
 3. status.hpp
 files contain the helper classes and structures.
 
-To generate the documentation, run 
-doxygen doxyfile
+To generate the documentation, run
+"doxygen doxyfile"
 in the command prompt and then open index.html in the Documentation->HTML folder for the doxygen generated documentation.
 
 Open daa.html in the Reports folder for the HTML report.
